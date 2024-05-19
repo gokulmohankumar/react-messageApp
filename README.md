@@ -50,8 +50,8 @@ Open your browser and navigate to http://localhost:3000.
 Use the application to send, edit, delete, and search for messages.
 Screenshots
 
-![image](https://github.com/gokulmohankumar/Message-App/assets/137893923/9848311e-5048-48ce-a9e1-a8b62b7309b3)
-![image](https://github.com/gokulmohankumar/Message-App/assets/137893923/afaa1d27-ad19-451c-ac9e-dea9c18962ac)
-![image](https://github.com/gokulmohankumar/Message-App/assets/137893923/7c6454af-b13b-4878-8c73-98a877a46509)
-![image](https://github.com/gokulmohankumar/Message-App/assets/137893923/25ec612f-9002-482a-af19-97855b9e797c)
+![image](https://github.com/gokulmohankumar/react-messageApp/assets/137893923/938da712-dfbf-44fd-9add-bd9759817f3d)
+![image](https://github.com/gokulmohankumar/react-messageApp/assets/137893923/3c7fcfd5-197b-43c4-9b97-b49cd57088de)
+![image](https://github.com/gokulmohankumar/react-messageApp/assets/137893923/47ce54de-015c-4cf7-98ed-194cc1514755)
+![image](https://github.com/gokulmohankumar/react-messageApp/assets/137893923/ba66ccb3-b261-423a-aa0a-a75546f45efc)
 
