@@ -1,0 +1,15 @@
+.contact{
+    max-width: 900px;
+    font-size:20px;
+    padding:20px;
+}
+.contact h3{
+    color:darkorchid;
+}
+.contact h4{
+    color:rgb(245, 54, 124);
+}
+.contact span{
+    color:rgb(8, 12, 228);
+    margin-left:5px;
+}

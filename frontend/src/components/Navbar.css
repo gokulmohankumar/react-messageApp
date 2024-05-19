@@ -1,0 +1,35 @@
+
+.navbar {
+    margin-top:0;
+    font-weight: bold;
+    font-size: large;
+    background-color: rgb(15, 53, 241);
+    color: white;
+    justify-content: space-between;
+    position: relative;
+    bottom:20px;
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar ul li {
+    padding: 10px;
+    margin-right: 100px;/* Or add this line if you want to target the anchor tags directly */
+
+    text-decoration: none; /* Add this line */
+}
+
+.navbar ul li a {
+    text-decoration: none; 
+    color: #fff;
+}
+.navbar ul li:hover {
+     color: rgb(237, 20, 172);
+    text-decoration:underline; /* Add this line */
+}
+.navbar ul li a:hover {
+    color: rgb(5, 234, 66);
+}
